@@ -1,0 +1,29 @@
+{
+  "name": "angrybot-tween",
+  "version": "1.0.0",
+  "description": "Tweens and Timers for Javascript",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASWC/angrybot-tween.git"
+  },
+  "keywords": [
+    "tweens",
+    "timers"
+  ],
+  "author": "Jean Mas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ASWC/angrybot-tween/issues"
+  },
+  "homepage": "https://github.com/ASWC/angrybot-tween#readme",
+  "devDependencies": {
+    "typescript": "^3.3.3"
+  }
+}
